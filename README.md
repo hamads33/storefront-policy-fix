@@ -1,5 +1,5 @@
-# Xinzuo Shopify clone — TYICDI hiring task
-
+# TYICDI hiring task
+loom url-https://www.loom.com/share/456a0181ed024d68b73fb591e189d71c
 A sanitised, single-command clone of [xinzuo.com.au](https://xinzuo.com.au) running on your **own** free Shopify dev store: real Liquid theme, ~50 sample products (the ones the homepage actually references, plus backfill), 68 collections, 17 pages, 5 articles, and 162 optimised images. Your 2-hour timed window starts when you tick the commit gate on the [hiring portal](https://apply.toldyouicoulddoit.com). Setup below does **not** count against the timer — do it ahead of time.
 
 **Measured script time: under 5 minutes** (plus 10–15 min for first-time Shopify Partners signup if you've never used it — that part is one-time).
